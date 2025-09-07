@@ -1,5 +1,5 @@
 # Portfolio
-Hello I am roblox developer, which is 18 years old. Throught the 4 years of development in Roblox, I gained a good amount of experience, and I would like to share some of works I made with you. I hope we could work together, if you here for reveiwing my works!
+Hello I am roblox developer, which is 19 years old. Throught the 4 years of development in Roblox, I gained a good amount of experience, and I would like to share some of works I made with you. I hope we could work together, if you here for reveiwing my works!
 
 # Codes
 If you interested in my code architecture you can see it in 'SimpleCombat' folder. There are example scripts, hope you like it.
