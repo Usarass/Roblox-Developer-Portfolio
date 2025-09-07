@@ -7,9 +7,13 @@ If you interested in my code architecture you can see it in 'SimpleCombat' folde
 # Showcase
 
 [Simple Fight](https://streamable.com/k72frr)
+
 [Sonic Ultimate](https://streamable.com/t6c5n3)
+
 [Quests for cleaning house](https://streamable.com/32b9vw)
+
 [Custom Inventory](https://streamable.com/qenbd0)
+
 [Pets](https://streamable.com/ijt6cg)
 
 **
